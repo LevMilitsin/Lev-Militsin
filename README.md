@@ -1,10 +1,9 @@
 # Portfolio
 Lev Militsin
 * Aspiring
-  
-  ------------------------
 Education/Certifications
-
+* Course
+-----------
 
 # Financial analysis Reports 
 -----------
