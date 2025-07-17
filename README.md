@@ -1,6 +1,6 @@
 # Portfolio
 # Lev Militsin
-* Aspiring Data Scientist | 
+* Aspiring 
 
 # Education/Certifications
 
@@ -11,7 +11,9 @@
 This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
 
 
-# [MNA IPO Breakdowns]
+# MNA IPO Breakdowns
 ![alt text](maxim-hopman-fiXLQXAhCfk-unsplash.jpg)
 
 This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
+
+# Pitchbooks 
